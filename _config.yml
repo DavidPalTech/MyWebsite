@@ -25,10 +25,11 @@ title:                 David Palomeque
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  David Palomeque. Custom software development and tech consultancy for businesses.
+  David Palomeque. Custom software development and tech consulting for businesses.
 
 # A shorter description for the sidebar.
-tagline:               Software & Consultancy services
+tagline:               Software & Consulting services
+                       <davidpaltech@gmail.com>
 
 # A list of keywords for your blog
 keywords:              []
