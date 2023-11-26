@@ -306,6 +306,10 @@ collections:
   projects:
     permalink:         /projects/:path/
     output:            true
+    
+  services:
+    permalink:         /services/:path/
+    output:            true
 
 
 # File inclusion/exclusion
