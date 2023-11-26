@@ -9,16 +9,12 @@ David:
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
     Experienced in building software products, having impacted on 100K+ users, 
-    and helped businesses to improve their performance by providing data-based analytics 
+    and in helping businesses to improve their performance by providing data-based analytics 
     useful both for decision-making and operational tasks.
 
   # This photo will be used in the about section
   picture:
-    path:            https://placehold.it/128x128
-    # srcset is optional, but can be used to provide higher res versions for retina displays
-    srcset:
-      1x:            https://placehold.it/128x128
-      2x:            https://placehold.it/256x256
+    path:            /assets/img/logo/logo.jpg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
@@ -65,16 +61,3 @@ David:
     # keybase          <username>
 
 # Another author (optional)
-author2:
-  name:              <firtname> <lastname>
-  email:             <mail@domain.tld>
-  about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-    Open `_data/authors.yml` to edit this text.
-
-  picture:           https://placehold.it/128x128
-  twitter:           <username>
-  github:            <username>
