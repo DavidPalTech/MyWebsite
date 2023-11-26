@@ -8,9 +8,9 @@ In today's business world, technology has become a key tool for achieving succes
 
 What is actually crucial is to <b>get right what most businesses get wrong</b>: Aligning the technological resources with the business goals and strategy.
 
-Applying technological solutions to improve business processes and make information clearer and more manageable, increases the chances of growth and <b>makes the process of decision-making easier</b>.
+Applying technological solutions to improve business processes and make information clearer and more manageable, increases the chances of growth and <b>makes decision-making easier</b>.
 
-I worked on different types of projects building software products that impact in business performance. Let's see what kind of solution <b>[fits the best for you](services)</b>.
+I worked on different types of projects building software products that impact on business performance. Let's see what kind of solution <b>[fits the best for you](services)</b>.
 
 <!-- I’m a connector—between business and technology, product and market, company and customer. My work is to align and focus these relationships on common goals and exceptional outcomes.
 
