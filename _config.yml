@@ -54,7 +54,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Services
-    url:               /  
+    url:               /services
   - title:             Blog
     url:               /blog/
   # - title:             Projects
