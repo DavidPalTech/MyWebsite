@@ -19,7 +19,7 @@ I’ve created high-impact partnerships, deals, teams, and over $300M in revenue
 ## You might find useful
 * [Business Inquiries]{:.heading.flip-title} --- davidpaltech@gmail.com
 * [Professional Services]{:.heading.flip-title} --- Let's see what solution fits your business the best.
-* [My Blog]{:.heading.flip-title} --- Check out the last things I've been trying out.
+<!-- * [My Blog]{:.heading.flip-title} --- Check out the last things I've been trying out. -->
 {:.related-posts.faded}
 
 <!-- After you've familiarized yourself with Hydejack, you can delete the following folders and files
