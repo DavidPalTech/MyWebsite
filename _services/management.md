@@ -1,13 +1,13 @@
 ---
 layout: service
-title: 'Custom Software Solutions'
+title: 'CRMs & ERPs'
 caption: Adapted to your business particularities
 image: 
-  path: /assets/img/services/custom/coding.jpg # 1920 x 1080
+  path: /assets/img/services/management/dashboard.jpg # 1920 x 1080
   srcset: 
-    1920w: /assets/img/services/custom/coding.jpg
-    960w:  /assets/img/services/custom/coding@0,50x.jpg # 960 x 540
-    480w:  /assets/img/services/custom/coding@0,25x.jpg # 480 x 270
+    1920w: /assets/img/services/management/dashboard.jpg
+    960w:  /assets/img/services/management/dashboard.jpg # 960 x 540
+    480w:  /assets/img/services/management/dashboard.jpg # 480 x 270
 links:
   - title: Want to know more?
     url: mailto:davidpaltech@gmail.com
