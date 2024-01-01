@@ -5,8 +5,8 @@ caption: Have online presence and boost your sales
 image: 
   path: /assets/img/services/data/insight.jpg # 1920 x 1080
   srcset: 
-    1920w: /assets/img/services/data/insight.jpg
-    960w:  /assets/img/services/data/insight@0,50x.jpg # 960 x 540
+    1920w: /assets/img/services/sites/ecommerce.jpg
+    960w:  /assets/img/services/sites/ecommerce.jpg # 960 x 540
     480w:  /assets/img/services/sites/ecommerce.jpg # 480 x 270
 links:
   - title: Want to know more?
